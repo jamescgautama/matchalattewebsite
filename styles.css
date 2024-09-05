@@ -1,0 +1,50 @@
+body {
+    text-align: center;
+    background-color: #eeeeee;
+    margin: 0;
+    font-family: 'Plus Jakarta Sans', serif;   
+}
+
+h1 {
+    color: #425043;
+    font-size: 2em;
+    margin-bottom: 0em;
+}
+
+h3 {
+    color: #425043; 
+    font-size: 1.25em;
+    margin-top: 0.25em;
+}
+
+img {
+    border-radius: 50%; 
+    width: 200px; 
+    height: 200px; 
+    padding: 20px;
+}
+
+div {
+    font-size: 1.25em; 
+}
+
+
+li {
+    padding-bottom: 10px;
+}
+
+.fa {
+    font-size: 3em;
+    padding: 5px 15px 15px 15px;
+    text-decoration: none;
+}
+
+footer {
+    position: absolute;
+    background-color: #425043; 
+    width: 100%; 
+    height: 30px; 
+    bottom: 0;
+}
+
+
